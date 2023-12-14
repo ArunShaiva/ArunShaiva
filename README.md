@@ -1,16 +1,27 @@
-### Hi there 👋
+# 🚀 Java Developer Portfolio
 
-<!--
-**ArunShaiva/ArunShaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! Welcome to my Java Developer Portfolio. This repository is a showcase of my journey as a Java enthusiast.
 
-Here are some ideas to get you started:
+## ℹ️ About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm Arun, a passionate student pursuing a degree in Computer Science with a focus on Java development. Here, you'll find my projects and adventures in the world of Java programming.
+
+## 🛠️ Skills
+
+- Java (Core)
+- Object-Oriented Programming (OOP)
+- Spring Framework
+- Hibernate
+- HTML/CSS/JavaScript
+- Git/GitHub
+
+
+
+## 📫 Connect with Me
+
+- LinkedIn: www.linkedin.com/in/arun-j-460745169
+- Email: arunjbharathi@gmail.com
+
+Let's connect, learn, and share our Java experiences! Don't hesitate to reach out for discussions or potential collaborations.
+
+Happy Coding! 🌟
