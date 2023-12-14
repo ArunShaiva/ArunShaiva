@@ -6,6 +6,8 @@ Hey there! Welcome to my Java Developer Portfolio. This repository is a showcase
 
 I'm Arun, a passionate student pursuing a degree in Computer Science with a focus on Java development. Here, you'll find my projects and adventures in the world of Java programming.
 
+  Profile views (https://hits.dwyl.com/ArunShaiva/ArunShaiva.svg?style=flat-square&show=unique)](http://hits.dwyl.com/ArunShaiva/ArunShaiva)
+
 ## 🛠️ Skills
 
 - Java (Core)
