@@ -12,6 +12,7 @@ I'm Arun, a passionate student pursuing a degree in Computer Science with a focu
 
 - Java (Core)
 - Object-Oriented Programming (OOP)
+- SQL (Structured Query Language)
 - Spring Framework
 - Hibernate
 - HTML/CSS/JavaScript
